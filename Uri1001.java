@@ -5,7 +5,7 @@ public class Uri1001{
         int A, B, X;
         A = teclado.nextInt();
         B = teclado.nextInt();
-        X = A + B
+        X = A + B;
         System.out.println("X = " + X);
     }
 }
